@@ -1,1 +1,1 @@
-Read me file for the Tango with Django project for WAD2.
+Tango with Django project for WAD2.
